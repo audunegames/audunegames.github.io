@@ -1,0 +1,19 @@
+# Site settings
+title: Audune Docs
+email: info@audune.com
+description: >-
+  Documentation for projects and packages made by Audune Games.
+baseurl: ""
+url: "https://docs.audune.com/"
+twitter_username: AuduneGames
+github_username:  audunegames
+
+# Build settings
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+# Theme settings
+color_scheme: light
+footer_content: Copyright &copy; 2024, <a href=\"https://audune.com/\">Audune Games</a>
+last_edit_timestamp: false
